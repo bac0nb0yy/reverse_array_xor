@@ -6,11 +6,10 @@
 /*   By: dtelnov <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/29 08:48:55 by dtelnov           #+#    #+#             */
-/*   Updated: 2022/11/29 08:49:30 by dtelnov          ###   ########.fr       */
+/*   Updated: 2022/11/29 10:12:39 by dtelnov          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdio.h>
 #include <string.h>
 
 char	*swap_array(char *s)
